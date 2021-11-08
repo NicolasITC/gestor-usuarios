@@ -1,0 +1,16 @@
+.button{
+  transition: all 0.5s ease; /* Transición para que sea mas suave */
+  background-color: #2185D0;
+  border-radius: 4px;
+  color: #fff;
+  border: none; /* Saca el boorde feo del botón */
+  padding: 10px 20px;
+  font-weight: 700;
+  font-size: 15px;
+  cursor: pointer; /* Cambia a manito al poner sobre el botón puntero */
+}
+
+/* Transición de color al poner puntero sobre botón */
+button.button:hover{
+  background-color: #125c94;
+}
