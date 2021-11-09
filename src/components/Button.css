@@ -1,6 +1,6 @@
 .button{
   transition: all 0.5s ease; /* Transición para que sea mas suave */
-  background-color: #2185D0;
+  background-color: #d08a21;
   border-radius: 4px;
   color: #fff;
   border: none; /* Saca el boorde feo del botón */
